@@ -1,0 +1,86 @@
+body {
+    background: #eee;
+}
+.container{
+    background: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 3px rgb(0, 0, 0, 0.2);
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 50%;
+    text-align: center;
+    font-family: calibri;
+ }
+ a {
+     font-weight: bold;
+ }
+h1 {
+    font-weight: bold;
+ }
+h3 {
+    font-weight: bold;
+}
+h4 {
+    margin: 1px;
+}
+h5 {
+    text-align: right;
+}
+.eurai {
+    
+    font-weight: bold;
+  }
+
+.text {
+        text-align: justify;
+        width: 700px;
+        margin:auto;
+        padding: 0.5rem;
+    }
+p {
+    margin: 1px;
+}
+.produktai {
+    
+    width: 150px;
+    height: 150px;
+}
+header {
+    
+    text-align: center;
+}
+
+header img {
+    height: 4rem;
+}
+
+header a {
+    
+    color: black;
+    margin: 0 1rem;
+    text-decoration: none;
+    
+}
+h5 {
+    
+    text-decoration: none;
+     color: black;
+     text-align: right;
+    
+    
+
+}
+.atgal {
+    text-align: right;
+    text-decoration: none;
+   
+}
+
+.contacts {
+    text-align: left;
+}
+.footer
+{
+    text-align: center;
+    color: grey;
+}
